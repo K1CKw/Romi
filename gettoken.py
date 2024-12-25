@@ -2,13 +2,13 @@ import requests
 import json
 
 _banner_ = '''
-\033[1;91m ooooooooo.                                o8o  
-\033[1;92m`888   `Y88.                              `"'  
-\033[1;97m 888   .d88'  .ooooo.  ooo. .oo.  .oo.   oooo  
-\033[1;98m 888ooo88P'  d88' `88b `888P"Y88bP"Y88b  `888  
-\033[1;99m 888`88b.    888   888  888   888   888   888  
-\033[1;93m 888  `88b.  888   888  888   888   888   888  
-\033[1;97mo888o  o888o `Y8bod8P' o888o o888o o888o o888o 
+ ooooooooo.                                o8o  
+`888   `Y88.                              `"'  
+888   .d88'  .ooooo.  ooo. .oo.  .oo.   oooo  
+888ooo88P'  d88' `88b `888P"Y88bP"Y88b  `888  
+888`88b.    888   888  888   888   888   888  
+888  `88b.  888   888  888   888   888   888  
+o888o  o888o `Y8bod8P' o888o o888o o888o o888o 
                                                
                                                
                                                    
